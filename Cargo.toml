@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-clap = { version = "3.2.22", features = ["derive"] }
+clap = { version = "4.0.0", features = ["derive"] }
 env_logger = "0.9.1"
 gimli = "0.26.2"
 hex = "0.4.3"
